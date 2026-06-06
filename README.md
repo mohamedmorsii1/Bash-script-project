@@ -27,7 +27,7 @@ The system provides centralized control for local system management:
 ## 🖥️ System Interface
 The tool uses a clean, menu-based structure to ensure ease of navigation for system administrators.
 
-![Main Menu]<img width="628" height="355" alt="image" src="https://github.com/user-attachments/assets/4b7a3c70-4d8e-4b0c-9b34-b23b6ac7a929" />
+<img width="628" height="355" alt="image" src="https://github.com/user-attachments/assets/4b7a3c70-4d8e-4b0c-9b34-b23b6ac7a929" />
 
 
 ---
